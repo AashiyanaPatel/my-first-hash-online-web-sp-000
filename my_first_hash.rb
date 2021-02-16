@@ -2,7 +2,7 @@ def my_hash
     my_hash = {"my_name" => "Aashiyana Patel", "my_age" => "25"}
 end
 
-def shipping_manifest(the_manifest, old_timey_items)
+def shipping_manifest(old_timey_items)
   old_timey_items = {
                   "whale bone corsets" => 5, 
                   "porcelain vases" => 2, 
