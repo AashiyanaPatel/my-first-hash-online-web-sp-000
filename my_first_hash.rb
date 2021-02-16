@@ -2,8 +2,8 @@ def my_hash
     my_hash = {"my_name" => "Aashiyana Patel", "my_age" => "25"}
 end
 
-def shipping_manifest(the_manifest)
-  the_manifest = {
+def shipping_manifest(the_manifest, old_timey_items)
+  old_timey_items = {
                   "whale bone corsets" => 5, 
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
