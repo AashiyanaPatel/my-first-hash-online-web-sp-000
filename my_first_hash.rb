@@ -30,7 +30,7 @@ def adding
   shipping_manifest["muskets"] = 2
   shipping_manifest["gun powder"] = 4
   
-  s "returns "shipping_manifest"
+    return "shipping_manifest"
 end
 
 
